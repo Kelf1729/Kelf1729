@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelf1729&theme=vue&show_icons=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelf1729&layout=compact&langs_count=7&theme=vue"/>
-
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Kelf1729&show_icons=true&theme=vue" width = 450>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelf1729&layout=compact&langs_count=7&theme=vue" width = 450/>
+</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
