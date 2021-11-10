@@ -11,10 +11,12 @@
 
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Kelf1729&show_icons=true&theme=vue" width = 450>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelf1729&layout=compact&langs_count=7&theme=vue" width = 450/>
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Kelf1729&show_icons=true&theme=vue">
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelf1729&layout=compact)](https://github.com/Kelf1729/github-readme-stats)
+
 <h1 align="left"> Skills & Tools: </h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
