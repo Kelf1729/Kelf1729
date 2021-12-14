@@ -1,5 +1,5 @@
 ## Hello there, I'm Kelf Almeida 👋👋 (em processo de ajuste)
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <p align="left"> 
   Desenvolvedor <strong>Front-End</strong>, estudando HTML, CSS, JavaScript e Python. 
