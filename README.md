@@ -1,20 +1,20 @@
 ## Hello there, I'm Kelf Almeida 👋👋 (em processo de ajuste)
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Desenvolvedor <strong>Front-End</strong>, estudando HTML, CSS, JavaScript e Python. 
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, JavaScript, Python e VBA.</strong>
+ 📚 Linguagens: <strong>HTML, CSS, JavaScript, Python e VBA.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, PyCharm, Git.</strong>
+ 🧰 Ferramentas: <strong>VSCode, PyCharm, Git.</strong>
 </p>
 
 <p align="left">
-  💌 Caso tenha interesse em entrar em contato: ⤵️
+ 📮 Caso tenha interesse em entrar em contato: ⤵️
 </p>
 
 <p align="left">
