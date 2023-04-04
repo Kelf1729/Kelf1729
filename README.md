@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
- 📚 Linguagens: <strong>HTML, CSS, JavaScript, Python e VBA.</strong>
+ 📚 Linguagens: <strong>Python e VBA.</strong>
 </p>
 
 <p align="left">
