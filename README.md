@@ -2,11 +2,11 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <p align="left"> 
-  <strong>Engenheiro Civil</strong>, Estudando VBA e Python. 
+  <strong>Engenheiro Civil</strong>, Estudando JS,HTML,CSS,PYTHON e VBA. 
 </p>
 
 <p align="left">
- 📚 Linguagens: <strong>Python e VBA.</strong>
+ 📚 Linguagens: <strong>Python,VBA e JS.</strong>
 </p>
 
 <p align="left">
