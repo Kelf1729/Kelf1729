@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <p align="left"> 
-  <strong>Engenheiro Civil</strong>, Estudando JS,HTML,CSS,PYTHON e VBA. 
+  <strong>Desenvolvedor Front-End</strong>, Estudando JS,HTML,CSS,PYTHON e VBA. 
 </p>
 
 <p align="left">
