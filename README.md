@@ -1,34 +1,13 @@
-## Hello there, I'm Kelf Almeida 👋👋
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+# 👋 Hi there
 
-<p align="left"> 
-  <strong>Desenvolvedor Front-End</strong>, Estudando JS,HTML,CSS,PYTHON e VBA. 
-</p>
+"Hello, I am Kelf Almeida, a civil engineer by training transitioning into Front-End development. I am a passionate enthusiast of development and technology. Currently, I am studying Front-End development with 1 year of experience in my studies. I have a great interest in working on new projects and exploring new technologies."
 
-<p align="left">
- 📚 Linguagens: <strong>Python,VBA e JS.</strong>
-</p>
 
-<p align="left">
- 🧰 Ferramentas: <strong>VSCode, PyCharm, Git.</strong>
-</p>
+# 🚀 Expertise
 
-<p align="left">
- 📮 Caso tenha interesse em entrar em contato: ⤵️
-</p>
+My primary focus is on frontend development, where I specialize in building interactive and user-friendly web applications. I have extensive knowledge of HTML, CSS, JavaScript.</br> 
+I love working on the frontend because it allows me to combine my creativity with problem-solving skills to deliver exceptional user experiences.
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-</p>  
-
-## 
-<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> Github Stats:
-<p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Kelf1729&show_icons=true&theme=vue">
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelf1729&layout=compact)](https://github.com/Kelf1729/github-readme-stats)            
+# 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+          
